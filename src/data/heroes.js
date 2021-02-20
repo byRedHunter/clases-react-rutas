@@ -7,7 +7,7 @@ export const heroes = [
 		first_appearance: 'Detective Comics #27',
 		characters: 'Bruce Wayne',
 		figure:
-			'https://static.wikia.nocookie.net/comicdc/images/d/d9/Batman_jim_lee.jpg/revision/latest/scale-to-width-down/340?cb=20140708014954&path-prefix=es',
+			'https://mk0duplos1wcakrj62gl.kinstacdn.com/wp-content/uploads/2021/01/Batman-la-serie-animada.jpg',
 	},
 	{
 		id: 'dc-superman',
@@ -58,7 +58,7 @@ export const heroes = [
 		first_appearance: 'All Star Comics #8',
 		characters: 'Princess Diana',
 		figure:
-			'https://static.wikia.nocookie.net/comicdc/images/3/38/Wonder-Woman.jpg/revision/latest/scale-to-width-down/340?cb=20120715003657&path-prefix=es',
+			'https://static.wikia.nocookie.net/doblaje/images/c/c4/WonderWomanDCCOmics02.jpg/revision/latest/top-crop/width/360/height/450?cb=20190510123700&path-prefix=es',
 	},
 	{
 		id: 'dc-martian',
@@ -156,7 +156,7 @@ export const heroes = [
 		first_appearance: 'The Incredible Hulk #180',
 		characters: 'James Howlett',
 		figure:
-			'https://static.wikia.nocookie.net/marvel/images/9/90/Wolverine_vol_1_1.jpg/revision/latest/top-crop/width/360/height/450?cb=20130724193757&path-prefix=es',
+			'https://i.pinimg.com/originals/4f/48/8f/4f488fc94cd4188be551e76b369febb3.jpg',
 	},
 	{
 		id: 'marvel-daredevil',
